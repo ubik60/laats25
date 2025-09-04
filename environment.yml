@@ -1,0 +1,26 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
+  - scipy
+  - statsmodels
+  - datetime
+  - yfinance
+  - google
+  - googleapiclient
+  - email
+  - base64
+  - arch
+  - email
+  - time
+  - pandas_datareader
